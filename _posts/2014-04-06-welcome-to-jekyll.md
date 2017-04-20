@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2014-04-06 15:40:56
+categories: jekyll update
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/guoshiqi/Mr.G_Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
